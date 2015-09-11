@@ -5,7 +5,7 @@
 * 求职意向 : iOS开发
 * 性别 : 男
 * 邮箱 : 494125545@qq.com / goolecsbxxwxw@gmail.com
-* 博客地址 : csbzhixing.github.io
+* 博客地址 : <http://csbzhixing.github.io>
 * 联系方式 : 13580425192
 
 ##教育经历
